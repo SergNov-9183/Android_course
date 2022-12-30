@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Задание №2_Конфигурации</string>
+    <string name="go_to_another_activity_button">Перейти на окно ввода данных</string>
+    <string name="your_input">Вы ввели: </string>
+    <string name="search_button">Поиск</string>
+
+    <string name="link_to_any_website">Ссылка</string>
+    <string name="save_and_return_button">Сохранить и вернуться</string>
+
+    <string name="landscape_orientation_toast">Ориентация экрана: ландшафт</string>
+    <string name="portrait_orientation_toast">Ориенттация экрана: портрет</string>
+    <string name="keyboard_inactive_toast">Клавиатура активна</string>
+    <string name="keyboard_active_toast">Клавиатура неактивна</string>
+
+
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Task2_Configurations</string>
+    <string name="go_to_another_activity_button">Go to another activity</string>
+    <string name="your_input">Your input: </string>
+    <string name="search_button">Search</string>
+
+    <string name="link_to_any_website">Link to any website</string>
+    <string name="save_and_return_button">Save and return</string>
+
+    <string name="landscape_orientation_toast">Orientation: landscape</string>
+    <string name="portrait_orientation_toast">Orientation: portrait</string>
+    <string name="keyboard_inactive_toast">Keyboard active</string>
+    <string name="keyboard_active_toast">Keyboard inactive</string>
+
+
+</resources>
