@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/album_card"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    app:cardBackgroundColor="#FFFFFFFF">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:paddingVertical="4dp"
+        android:paddingHorizontal="4dp">
+
+        <TextView
+            android:id="@+id/емФlbumТame"
+            android:layout_width="358dp"
+            android:layout_height="27dp"
+            android:hint="Здесь будет название альбома"
+            android:layout_below="@+id/btnAlbumImage"
+            android:gravity="center"
+            android:layout_marginTop="4dp" />
+
+        <ImageButton
+            android:id="@+id/btnAlbumImage"
+            android:layout_width="357dp"
+            android:layout_height="213dp"
+            tools:srcCompat="@android:drawable/ic_menu_gallery" />
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

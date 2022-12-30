@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task4_Vk</string>
+    <string name="tooManyRequestsError">В настоящий момент сервер перегружен. Повторите попытку позже.</string>
+    <string name="serverError">Ошибка сервера. Повторите попытку позже.</string>
+    <string name="permissionDeniedError">Отказано в доступе. У пользователя закрытый профиль.</string>
+    <string name="userBlockedError">Учетная запись данного пользователя была удалена или заблокирована.</string>
+    <string name="incorrectParamError">Некорректный ID пользователя.</string>
+    <string name="albumPermissionDeniedError">Отказано в доступе. Данный пользователь запретил извлекать свои альбомы.</string>
+    <string name="invalidTokenError">Используемый токе больше недествителен. Обновите токе и повторите попытку.</string>
+    <string name="unknownError">Неизвестная ошибка. Попробуйте позже.</string>
+    <string name="noAlbumsWarning">Не удалось найти ни одного альбома</string>
+    <string name="noPhotosWarning">В данном альбоме не наайдено ни одной фотографии.</string>
+    <string name="internetConnectionError">Сбой системы. Проверьте интернет-соединение</string>
+    <string name="tokenExpiredError">Срок действия используемого токена истек. Обновите токен и повторите попытку.</string>
+</resources>
